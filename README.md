@@ -6,7 +6,7 @@ Screenshot testing example
 
 - install dependencies
 
-  `npm install -g json-server`
+  `npm install`
 
 - run storybook
 
