@@ -11,7 +11,8 @@
     "storybook": "storybook dev -p 6006",
     "build-storybook": "storybook build",
     "init-test-screenshots": "loki update",
-    "loki-test": "loki test"
+    "loki-test": "loki test",
+    "loki-approve": "loki approve"
   },
   "overrides": {
     "loki": {
